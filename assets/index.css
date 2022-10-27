@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'League Spartan';
+  src: url('~/assets/fonts/LeagueSpartan-Bold.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Nunito Sans';
+  src: url('~/assets/fonts/NunitoSans-Regular.ttf') format('opentype');
+}
